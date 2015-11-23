@@ -15,3 +15,5 @@ Please write good commit messages http://xkcd.com/1296/
 Git will help you version control so you really do end up with a final doc
 
 JL just added a line to my file, and it's freaky...
+
+Added new line to Malgosia's branch
