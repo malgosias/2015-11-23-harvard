@@ -9,3 +9,5 @@ Add something
 Add a link http://pad.software-carpentry.org
 
 We will learn not to do this anymore
+
+Please write good commit messages http://xkcd.com/1296/
